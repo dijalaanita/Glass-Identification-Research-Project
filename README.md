@@ -54,5 +54,5 @@ The **KNN model** outperformed the others and is recommended for glass type clas
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/glass-identification.git
-   cd glass-identification
+   https://github.com/dijalaanita/Glass-Identification-Research-Project.git
+   cd Glass-Identification-Research-Project
